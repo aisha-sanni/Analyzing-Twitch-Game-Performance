@@ -1,7 +1,7 @@
 # Analyzing-Twitch-Game-Performance
 To analyze Twitch game data from 2016 to 2024 and build an interactive Excel dashboard that uncovers trends in viewer engagement, streaming activity, and game performance—ultimately providing actionable insights for streamers, analysts, and game developers.
 
-![Dashboard](https://github.com/aisha-sanni/Adidas-Sales-Dashboard/blob/main/My%20Excel%20dashboard.PNG)
+![Dashboard]
 ### Overview
 In today’s data-driven environment, businesses need intuitive dashboards to understand performance trends quickly. To demonstrate the power of Excel for data storytelling, I created an interactive dashboard using Adidas’ U.S. sales data. This project focuses on transforming raw transaction-level data into visual insights that can drive strategic decisions.
 ### Objectives
