@@ -3,50 +3,33 @@ To analyze Twitch game data from 2016 to 2024 and build an interactive Excel das
 
 ![Dashboard]
 ### Overview
-In today’s data-driven environment, businesses need intuitive dashboards to understand performance trends quickly. To demonstrate the power of Excel for data storytelling, I created an interactive dashboard using Adidas’ U.S. sales data. This project focuses on transforming raw transaction-level data into visual insights that can drive strategic decisions.
+This project focuses on analyzing Twitch game data from 2016 to 2024 using Excel. The goal was to uncover viewer engagement trends, streaming activity, and game performance patterns. By transforming raw data into an interactive Excel dashboard, I provided actionable insights that help streamers identify high-performing games, assist developers in planning releases, and support analysts in spotting under-the-radar titles. The dashboard includes KPIs, charts, and slicers for dynamic exploration—making the data both accessible and decision-driven.
 ### Objectives
-The primary objective of this project was to analyze Adidas’ sales trends across the United States using Excel. The goal was to identify profitable regions, sales channels, and product categories that can inform future business decisions.
-
-This Excel dashboard serves as a decision-support tool that stakeholders — from marketing teams to executive leadership — can use to make informed, data-backed choices.
+To analyze Twitch game data from 2016 to 2024 and build an interactive Excel dashboard that uncovers trends in viewer engagement, streaming activity, and game performance—ultimately providing actionable insights for streamers, analysts, and game developers.
 ### Tools Used
 Microsoft Excel - For data cleaning, pivot analysis, charts and dashboard
 ### Key Insights
-- In-store sales channels account for the highest overall sales volume, while outlet stores offer better profit margins, making both vital yet distinct strategic priorities.
+Insights
+- A small number of games command the majority of attention.
 
+- Viewer efficiency is often more telling than total hours streamed.
 
-- Men’s Street Footwear and Women’s Running Footwear emerged as top-performing product categories, especially in high-density regions like the Northeast and West.
+- Games with high viewer-to-channel ratios are prime for discoverability.
 
-
-- Certain retailers like Foot Locker and Dick’s Sporting Goods consistently outperform others in both sales and profitability, while Walmart’s high volume, low-margin model may need recalibration.
-
-
-- Seasonality plays a significant role, with sales peaking in the final quarter of the year, reinforcing the need for time-sensitive marketing and inventory planning.
+- Holiday seasons and E-sports tournaments significantly affect traffic.
 ### DataSet
 The dataset used in this analysis originates from a public dataset, on a platform called Kaggle.
-- Retailer
+- Hours watched
 
-- Retailer ID
+- Hours streamed
+  
+- Average viewers
+  
+- Average channels streaming
 
-- Date 
+- Peak viewers
 
-- Region
+- Viewer-to-channel ratio
 
-- State
-
-- City
-
-- Product 
-
-- Unit Price
-
-- Units Sold
-
-- Total Sales
-
-- Operating Profit 
-
-- Operating Margin 
-
-- Channel 
 
 [Link to my documentation](https://medium.com/@sanniaishat2017/building-a-sales-dashboard-in-excel-a-case-study-using-adidas-dataset-85b9e3524e71)
